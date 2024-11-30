@@ -1,2 +1,3 @@
 # GUI-Tic_Tac_Toe-Game-with-Tkinter
-This Tic-Tac-Toe game was built with Python, using tkinter libraries as my GUI Interface.
+Designed a fun multiplayer Tic-Tac-Toe game using the Python Programming Language and Tkinter as my GUI 
+Interface for a more interactive environment
